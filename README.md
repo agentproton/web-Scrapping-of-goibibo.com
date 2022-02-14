@@ -6,9 +6,7 @@ Step 2: analyse and find a pattern in hotel urls with city/ country etc details 
 use
 ● www.makemytrip.com/robots.txt
 ● www.goibibo.com/robots.txt
-To check their sitemap, analyze and parse ONLY allowed links. (DO NOT DO ANY
-ILLEGAL HACKING - INSTITUTE OR FACULTY WON'T BE RESPONSIBLE FOR
-THAT)
+
 Step3: generate a pattern in urls by step 2, so that you can parse all the urls in your
 loop in the code.
 Step 4: use BeautifulSoup library to parse obtained links from step 3, and figure out
